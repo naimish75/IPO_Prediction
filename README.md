@@ -9,9 +9,6 @@ A Python-based project that automates the extraction and analysis of Draft Red H
 - [Project Workflow](#project-workflow)
 - [Technologies Used](#technologies-used)
 - [Setup and Usage](#setup-and-usage)
-- [Output Example](#output-example)
-- [Data Source](#data-source)
-- [Connect](#connect)
 
 ---
 
@@ -56,4 +53,5 @@ A Python-based project that automates the extraction and analysis of Draft Red H
 Ensure you have the following installed:
 - Python 3.8 or higher
 - Required Python packages: `pdfplumber`, `pandas`
+- Download required DRHP reports from https://sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=10
 
